@@ -1,1 +1,4 @@
 lab-1-port-exploit/ctf_1.py
+lab-1-port-exploit/build/*
+lab-1-port-exploit/ctf_1.spec
+lab-1-port-exploit/dist/*
