@@ -1,6 +1,8 @@
 # Drone Hacking Workshop
 Slideshow presentation and programs for the UAV and drone hacking workshop.
 
+[Presentation Link](https://docs.google.com/presentation/d/1rOWkhsVSQ8V550h465yFNxxJxABTkK5F_ceub3xfD0g/edit?usp=sharing)
+
 ### Lab 1: Drone Port Exploit
 Run a port and server exploit on the Parrot AR 2.0 Drone
 
